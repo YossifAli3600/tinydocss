@@ -1,0 +1,12 @@
+.widthAccordion {
+	width: 50px;
+	flex-shrink: 0;
+	transition: .5s ease;
+}
+.widthAccordion.active {
+	flex-grow: 1;
+}
+.verticalText{
+	writing-mode: vertical-rl;
+	transform: rotate(180deg);
+}

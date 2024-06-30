@@ -1,0 +1,8 @@
+.meetBorder{
+    background-color: #AB8B24;
+    width: 100%;
+    height: 60px;
+    border-radius: 20px;
+    transform: translateY(-90px);
+    z-index: -1;
+}

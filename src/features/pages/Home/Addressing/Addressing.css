@@ -1,0 +1,9 @@
+.AddressingSection {
+	background-image: url("./src/assets/images/repeatedBg.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.AddressingSection .overlay{
+	background-color: #6ac7bfee;
+}

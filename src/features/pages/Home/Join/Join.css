@@ -1,0 +1,12 @@
+.JoinSection {
+	background-image: url("./src/assets/images/repeatedBg.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.JoinSection .swiper-pagination-bullet {
+	background-color: #6AC7C0;
+}
+.JoinSection .swiper-pagination {
+	transform: translateY(10px);
+}

@@ -1,0 +1,9 @@
+.spaceshipImg {
+	transform: scaleY(-1);
+}
+.meetPatches {
+    right: 0;
+    top: 50%;
+    transform: translateY(-40%) scaleX(-1);
+  }
+  
